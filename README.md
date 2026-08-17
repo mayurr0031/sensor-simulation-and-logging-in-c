@@ -126,7 +126,7 @@ Enter your choice
 0.Print reading in terminal and store data in text file
 1.clear data
 2.EXIT
-
+0
 | TIME STAMP | RawV | Filteredvalue | sFlag | Message |
 Mon Aug 17 14:21:29 2026    13.600000    14.240001    1    WARNING
 ```
